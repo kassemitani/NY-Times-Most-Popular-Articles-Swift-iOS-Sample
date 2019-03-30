@@ -27,10 +27,11 @@ Used MVVM Design pattern and swift generic approach to develop this application.
 
 &nbsp; 
 
-# Installation
+# How to build and run the code?
 
-* Installation by cloning the repository
+* Start by cloning the repository
 * Go to directory
+* Open "NY Times Most Popular Articles.xcworkspace" using Xcode 
 * use command + B or Product -> Build to build the project
 * Incase of build fail due to dependency Kingfisher, install Kingfisher using CocoaPods.
 * Incase of build fail due to dependency Moya, install Moya using CocoaPods.
@@ -51,7 +52,7 @@ Follow the steps to get test case reports:
 
 # Architecture
 
-We used MVVM :
+The project uses an object oriented programming approach with MVVM architecture and utilizes structs, extensions and some class inheritance to separate and define the code more clearly.
 
 &nbsp; 
 &nbsp; 
